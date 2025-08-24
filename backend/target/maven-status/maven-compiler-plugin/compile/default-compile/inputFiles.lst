@@ -1,0 +1,8 @@
+/workspace/backend/src/main/java/com/example/todoapp/TodoBackendApplication.java
+/workspace/backend/src/main/java/com/example/todoapp/config/WebConfig.java
+/workspace/backend/src/main/java/com/example/todoapp/controller/TodoController.java
+/workspace/backend/src/main/java/com/example/todoapp/dto/TodoRequest.java
+/workspace/backend/src/main/java/com/example/todoapp/entity/Todo.java
+/workspace/backend/src/main/java/com/example/todoapp/repository/TodoRepository.java
+/workspace/backend/src/main/java/com/example/todoapp/service/TodoService.java
+/workspace/backend/src/main/java/com/example/todoapp/service/impl/TodoServiceImpl.java
